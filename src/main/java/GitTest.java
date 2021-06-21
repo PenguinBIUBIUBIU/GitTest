@@ -5,5 +5,9 @@ public class GitTest {
     private int id3;
 
     private String str;
+    public int Getint(){
+        return 2;
+    }
+
 
 }
