@@ -3,4 +3,6 @@ public class GitTest {
     private int id2;
     private int id3;
 
+    private String str;
+
 }
