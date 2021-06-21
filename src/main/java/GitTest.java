@@ -8,6 +8,4 @@ public class GitTest {
     public int Getint(){
         return 2;
     }
-
-
 }
